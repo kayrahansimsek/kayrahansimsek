@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayrahansimsek
 - 👀 I’m interested in modelling complex systems.
-- 🌱 I’m currently learning Quantitative Ecology and C++
+- 🌱 I’m currently learning Theoretical Ecology
 - 📫 How to reach me kayrahansimsek@gmail.com
 - 😄 Pronouns: He/Him
 
